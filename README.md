@@ -6,7 +6,7 @@
 
 ## Installation
 
-Replace the current color definitions in your [alacritty.yml](https://github.com/jwilm/alacritty#configuration) configuration file with the content from the [tender.yml](src/tender.yml) file.
+Replace the current color definitions in your [alacritty.toml](https://github.com/jwilm/alacritty#configuration) configuration file with the content from the [tender.toml](src/tender.toml) file.
 
 ## Screenshots
 
